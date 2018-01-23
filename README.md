@@ -1,2 +1,4 @@
 # Resources_Checker_Base
-Resources Checker Base
+# The base is provided as-is
+# Support to update Sergey Krasnyuk
+# http://patriotcs.ru
