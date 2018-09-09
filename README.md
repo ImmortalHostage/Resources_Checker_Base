@@ -6,7 +6,7 @@
 
 <br>Yandex: 410012033749961
 
-<br>Qiwi: +380971085028
+<br>Qiwi: +380973679871
 
 <br>Bitcoin Cash: 1EiKBQrRySbZWAFx2u3dNh7jTCJwipjof4
 
