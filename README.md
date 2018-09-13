@@ -7,9 +7,3 @@
 <br>Yandex: 410012033749961
 
 <br>Qiwi: +380973679871
-
-<br>Bitcoin Cash: 1EiKBQrRySbZWAFx2u3dNh7jTCJwipjof4
-
-<br>Ether: 0x40068a1E18540696eFaB2ff4cE36972659734B66
-
-<br>Bitcoin: 1BTCkbkjVQBY7c59rjGo3Wq8LpHhSChw7H
